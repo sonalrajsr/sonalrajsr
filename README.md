@@ -11,7 +11,8 @@ Welcome to my GitHub! I'm passionate about AI, Machine Learning, and Data Scienc
 - 📊 **Data Science** – Data Cleaning, Preprocessing, EDA, Visualization (Matplotlib, Seaborn)  
 - 📈 **Algorithmic Trading** – Strategy development, backtesting, and optimization  
 - 🌐 **Software Development** – Python, SQL, Git, Docker, REST APIs  
-- ☁️ **Cloud & Deployment** – AWS, Azure, Streamlit  
+- ☁️ **Cloud & Deployment** – AWS, Azure, Streamlit
+- ☁️ **Web Development** – HTML, CSS, JAVA SCRIPT, React.js, Django, Flask 
 
 ---
 
@@ -19,13 +20,6 @@ Welcome to my GitHub! I'm passionate about AI, Machine Learning, and Data Scienc
 - 📈 **Algorithmic Trading Dashboard** – Developing a Streamlit-based dashboard to track and optimize trading strategies.  
 - 🏭 **Smart Manufacturing** – Enhancing production efficiency using AI and predictive modeling.  
 - 🔍 **Time-Series Forecasting** – Building LSTM and CNN models for quality prediction.  
-
----
-
-## 📂 **Featured Repositories**  
-[📊 **Algorithmic Trading Strategy**](#) – LSTM-based trading strategy with backtesting and performance evaluation.  
-[🧠 **Time-Series Prediction**](#) – CNN and LSTM models for regression on time-series data.  
-[📈 **EDA Toolkit**](#) – A Python package for quick and efficient exploratory data analysis.  
 
 ---
 
