@@ -6,19 +6,19 @@ Welcome to my GitHub! I'm passionate about AI, Machine Learning, and Data Scienc
 ---
 
 ## 🚀 **Skills & Expertise**  
-- 🤖 **Machine Learning** – LSTM, CNN, Regression, Classification  
+- 🤖 **Machine Learning** – LSTM, CNN, ANN, RNN, Transformers, Regression, Classification, etc 
 - 🧠 **Deep Learning** – TensorFlow, PyTorch, Keras  
-- 📊 **Data Science** – Data Cleaning, Preprocessing, EDA, Visualization (Matplotlib, Seaborn)  
-- 📈 **Algorithmic Trading** – Strategy development, backtesting, and optimization  
-- 🌐 **Software Development** – Python, SQL, Git, Docker, REST APIs  
-- ☁️ **Cloud & Deployment** – AWS, Azure, Streamlit
-- ☁️ **Web Development** – HTML, CSS, JAVA SCRIPT, React.js, Django, Flask 
+- 📊 **Data Science** – Data Cleaning, Preprocessing, EDA, Visualisation (Matplotlib, Seaborn)  
+- 📈 **Algorithmic Trading** – Strategy development, backtesting, and optimisation  
+- 🌐 **Software Development** – Python, SQL, Git, Docker, REST APIS  
+- ☁️ **Cloud & Deployment** – AWS, Streamlit, ML Flow
+- ☁️ **Web Development** – HTML, CSS, JavaScript, Django, Flask 
 
 ---
 
 ## 🔥 **Ongoing Projects**  
 - 📈 **Algorithmic Trading Dashboard** – Developing a Streamlit-based dashboard to track and optimize trading strategies.  
-- 🏭 **Smart Manufacturing** – Enhancing production efficiency using AI and predictive modeling.  
+- 🏭 **Smart Manufacturing** – Enhancing production efficiency using AI and predictive modelling.  
 - 🔍 **Time-Series Forecasting** – Building LSTM and CNN models for quality prediction.  
 
 ---
