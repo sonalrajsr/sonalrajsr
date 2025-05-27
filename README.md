@@ -1,26 +1,47 @@
 # 👋 Hi, I'm Sonal Raj!  
+
 🎯 **AI/ML Engineer | Data Scientist | Software Developer**  
 
-Welcome to my GitHub! I'm passionate about AI, Machine Learning, and Data Science. My expertise lies in building predictive models, automating data pipelines, and creating scalable software solutions.  
+Welcome to my GitHub! I’m passionate about solving real-world problems using AI, Machine Learning, and Data Science. From predictive modeling and data automation to scalable software development — I love creating meaningful and efficient solutions.
 
 ---
 
-## 🚀 **Skills & Expertise**  
-- 🤖 **Machine Learning** – LSTM, CNN, ANN, RNN, Transformers, Regression, Classification, etc 
+## 🚀 Skills & Expertise  
+
+- 🤖 **Machine Learning** – LSTM, CNN, ANN, RNN, Transformers, Regression, Classification  
 - 🧠 **Deep Learning** – TensorFlow, PyTorch, Keras  
-- 📊 **Data Science** – Data Cleaning, Preprocessing, EDA, Visualisation (Matplotlib, Seaborn)  
-- 📈 **Algorithmic Trading** – Strategy development, backtesting, and optimisation  
-- 🌐 **Software Development** – Python, SQL, Git, Docker, REST APIS  
-- ☁️ **Cloud & Deployment** – AWS, Streamlit, ML Flow
-- ☁️ **Web Development** – HTML, CSS, JavaScript, Django, Flask 
+- 📊 **Data Science** – Data Cleaning, Preprocessing, EDA, Visualization (Matplotlib, Seaborn)  
+- 📈 **Algorithmic Trading** – Strategy development, backtesting, and optimization  
+- 🖥️ **Software Development** – Python, SQL, Git, Docker, REST APIs  
+- 🌐 **Cloud & Deployment** – AWS, Streamlit, MLflow  
+- 💻 **Web Development** – HTML, CSS, JavaScript, Django, Flask  
 
 ---
 
-## 🔥 **Ongoing Projects**  
-- 📈 **Algorithmic Trading Dashboard** – Developing a Streamlit-based dashboard to track and optimize trading strategies.  
-- 🏭 **Smart Manufacturing** – Enhancing production efficiency using AI and predictive modelling.  
-- 🔍 **Time-Series Forecasting** – Building LSTM and CNN models for quality prediction.  
+## 🔥 Featured Projects  
+
+| 📌 Project                         | 📑 Description                                                           | 🔗 Link |
+|:---------------------------------:|:-------------------------------------------------------------------------|:--------|
+| 📈 **Algorithmic Trading Dashboard** | Streamlit-based dashboard for backtesting and optimizing trading strategies | [View Repo](https://github.com/yourusername/algorithmic-trading-dashboard) |
+| 🏭 **Smart Manufacturing AI**       | Predictive modeling for enhancing production efficiency in factories      | [View Repo](https://github.com/yourusername/smart-manufacturing) |
+| 🔍 **Time-Series Forecasting**      | Quality prediction using LSTM and CNN models on manufacturing data        | [View Repo](https://github.com/yourusername/time-series-forecasting) |
 
 ---
 
-🌟 _Open to collaborations and exciting projects in AI, ML, and Data Science!_  
+## 📊 GitHub Stats  
+
+![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌟 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
+[![Mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+
+---
+
+✨ _Open to collaborations, research, and impactful projects in AI, ML, and Data Science!_
+
