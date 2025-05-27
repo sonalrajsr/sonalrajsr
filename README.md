@@ -37,9 +37,9 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using A
 
 ## 🌟 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
-[![Mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sonalrajsr/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://sonalrajsr.github.io/Portfolio-/)  
+[![Mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sonalraj8453@gmail.com)
 
 ---
 
