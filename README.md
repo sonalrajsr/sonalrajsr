@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using A
 
 | 📌 Project                         | 📑 Description                                                           | 🔗 Link |
 |:---------------------------------:|:-------------------------------------------------------------------------|:--------|
-| 📈 **Algorithmic Trading Dashboard** | Streamlit-based dashboard for backtesting and optimizing trading strategies | [View Repo](https://github.com/yourusername/algorithmic-trading-dashboard) |
+| 📈 **Algorithmic Trading Dashboard** | Streamlit-based dashboard for backtesting and optimizing trading strategies | [View Repo](https://github.com/sonalrajsr/algorithmic-trading-dashboard) |
 | 🏭 **Smart Manufacturing AI**       | Predictive modeling for enhancing production efficiency in factories      | [View Repo](https://github.com/yourusername/smart-manufacturing) |
 | 🔍 **Time-Series Forecasting**      | Quality prediction using LSTM and CNN models on manufacturing data        | [View Repo](https://github.com/yourusername/time-series-forecasting) |
 
@@ -30,8 +30,8 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using A
 
 ## 📊 GitHub Stats  
 
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalrajsr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalrajsr&layout=compact&theme=radical)
 
 ---
 
