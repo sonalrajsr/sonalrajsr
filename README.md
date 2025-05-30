@@ -23,7 +23,7 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using A
 | 📌 Project                         | 📑 Description                                                           | 🔗 Link |
 |:---------------------------------:|:-------------------------------------------------------------------------|:--------|
 | 📈 **Algorithmic Trading Dashboard** | Streamlit-based dashboard for backtesting and optimizing trading strategies | [View Repo](https://github.com/sonalrajsr/algorithmic-trading-dashboard) |
-| 🏭 **Smart Manufacturing AI**       | Predictive modeling for enhancing production efficiency in factories      | [View Repo](https://github.com/yourusername/smart-manufacturing) |
+| 🏭 **Data-Driven-Fluid-Mechanics-Project**       | The aim of this project is to extract meaningful insights from video frames capturing fluid dynamics experiments      | [View Repo]([https://github.com/yourusername/smart-manufacturing](https://github.com/sonalrajsr/Data-Driven-Fluid-Mechanics-Project)) |
 | 🔍 **Time-Series Forecasting**      | Quality prediction using LSTM and CNN models on manufacturing data        | [View Repo](https://github.com/yourusername/time-series-forecasting) |
 
 ---
