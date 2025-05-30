@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using A
 |:---------------------------------:|:-------------------------------------------------------------------------|:--------|
 | **Algorithmic Trading Dashboard** | Streamlit-based dashboard for backtesting and optimizing trading strategies | [View Repo](https://github.com/sonalrajsr/algorithmic-trading-dashboard) |
 | **Data-Driven-Fluid-Mechanics-Project**       | The aim of this project is to extract meaningful insights from video frames capturing fluid dynamics experiments      | [View Repo](https://github.com/sonalrajsr/Data-Driven-Fluid-Mechanics-Project) |
-| 🔍 **Time-Series Forecasting**      | Quality prediction using LSTM and CNN models on manufacturing data        | [View Repo](https://github.com/sonalrajsr/Image-Segmentation-and-Object-Analysis) |
+| 🔍 **Image-Segmentation-and-Object-Analysis**      | This project is an AI-powered pipeline designed for image segmentation and object identification. The pipeline segments objects within images and identifies them using state-of-the-art deep learning models. It also includes the ability to extract and store segmented objects, generate textual descriptions, and present the results through an interactive web application built with Streamlit.        | [View Repo](https://github.com/sonalrajsr/Image-Segmentation-and-Object-Analysis) |
 
 ---
 
