@@ -31,7 +31,7 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using A
 ## 📊 GitHub Stats  
 
 ![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalrajsr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalrajsr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalrajsr&layout=pie&theme=radical)
 
 ---
 
