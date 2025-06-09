@@ -40,7 +40,7 @@ A few projects I'm particularly proud of:
 
 | 📌 Project | 📑 What it’s About | 🔗 Link |
 |:---:|:---|:---|
-| 🎛️ **Lathe Carriage & Guideway Design** | Complete design and FEA simulation of a lathe’s carriage, guideways, and lead screw system for precision machining. | [🔗 View Repo](https://github.com/sonalrajsr/Design-of-Carriage-and-Guideway-in-Manual-Lathe) |
+| 🎛️ **IntelliFAQ---AI-Powered-Smart-Query-Assistant** | The FAQ Assistant is a Django-based intelligent question-answering system designed to provide accurate and efficient answers to user queries. It leverages a hybrid approach by combining a database of predefined FAQs with the power of Large Language Models (LLMs) for dynamic query handling. This ensures that users get the best possible answers. | [🔗 View Repo]() |
 | 🌊 **Data-Driven Fluid Mechanics** | Computer vision and data extraction from fluid flow videos to analyze dynamic behavior in experiments. | [🔗 View Repo](https://github.com/sonalrajsr/Data-Driven-Fluid-Mechanics-Project) |
 | 🖼️ **Image Segmentation & Object Analysis** | AI-powered pipeline for segmenting images, identifying objects, generating descriptions, and displaying results on a Streamlit dashboard. | [🔗 View Repo](https://github.com/sonalrajsr/Image-Segmentation-and-Object-Analysis) |
 ---
