@@ -40,7 +40,7 @@ A few projects I'm particularly proud of:
 
 | 📌 Project | 📑 What it’s About | 🔗 Link |
 |:---:|:---|:---|
-| 🎛️ **IntelliFAQ---AI-Powered-Smart-Query-Assistant** | The FAQ Assistant is a Django-based intelligent question-answering system designed to provide accurate and efficient answers to user queries. It leverages a hybrid approach by combining a database of predefined FAQs with the power of Large Language Models (LLMs) for dynamic query handling. This ensures that users get the best possible answers. | [🔗 View Repo]() |
+| 🎛️ **IntelliFAQ---AI-Powered-Smart-Query-Assistant** | The FAQ Assistant is a Django-based intelligent question-answering system designed to provide accurate and efficient answers to user queries. It leverages a hybrid approach by combining a database of predefined FAQs with the power of Large Language Models (LLMs) for dynamic query handling. This ensures that users get the best possible answers. | [🔗 View Repo](https://github.com/sonalrajsr/IntelliFAQ---AI-Powered-Smart-Query-Assistant) |
 | 🌊 **Data-Driven Fluid Mechanics** | Computer vision and data extraction from fluid flow videos to analyze dynamic behavior in experiments. | [🔗 View Repo](https://github.com/sonalrajsr/Data-Driven-Fluid-Mechanics-Project) |
 | 🖼️ **Image Segmentation & Object Analysis** | AI-powered pipeline for segmenting images, identifying objects, generating descriptions, and displaying results on a Streamlit dashboard. | [🔗 View Repo](https://github.com/sonalrajsr/Image-Segmentation-and-Object-Analysis) |
 ---
