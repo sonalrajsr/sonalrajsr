@@ -86,5 +86,5 @@ Would love to connect with fellow developers, data scientists, and AI enthusiast
 ---
 
 <p align="center">
-  ✨ _Let's build AI solutions that make a difference!_ ✨
+  ✨ Let's build AI solutions that make a difference! ✨
 </p>
